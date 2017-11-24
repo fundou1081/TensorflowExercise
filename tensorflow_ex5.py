@@ -1,3 +1,6 @@
+#https://github.com/jiqizhixin/ML-Tutorial-Experiment/blob/master/Experiments/tf_CNN_Tutorial.ipynb
+#https://www.jiqizhixin.com/articles/2017-08-29-14
+
 import tensorflow as tf
 from tensorflow.examples.tutorials.mnist import input_data
 mnist = input_data.read_data_sets("./mnist/", one_hot=True)
